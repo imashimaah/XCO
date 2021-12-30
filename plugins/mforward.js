@@ -9,7 +9,7 @@
  const Config = require('../config');
 
           var mode = ''
-if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : MAALUTTY'
+if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ＺＥＤ'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
@@ -20,7 +20,7 @@ else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
              
             }
 
-Maalutty.addCommand({pattern: 'maaluforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
+Maalutty.addCommand({pattern: 'mforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
   
     if (message.reply_message === false);
     
