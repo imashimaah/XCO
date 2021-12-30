@@ -36,9 +36,5 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
 }));
 
-case 'joi':
-reply('IMASJ TRSHDJSK')
-break
-
-
-
+const buttonId ={`
+menu: ♥♥♥♥`}
