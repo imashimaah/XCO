@@ -10,7 +10,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg";
+    r_text[0] = "https://ibb.co/0DnpwsY";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,26 +19,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 MAALUTTY_V3💝⦁━►
 
-
-*owner number husni* :https://wa.me/917025868709.
-            
-
-*owner number Nijin* :https://wa.me/919605385305.
-
-
-*owner id instagram* :https://instagram.com/_husni_ser_.
-
-
-*github* : https://github.com/nijin-husni/MAALUTTY_V3.
-
-
-*audio commands* :https://github.com/nijin-husni/media/tree/main/bgm.
-
-
-*sticker commands* :https://github.com/nijin-husni/media/tree/main/stickers.
-
-◄━⦁💝 MAALUTTY_V3💝⦁━►
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+ＣＯＭＩＮＧ ＳＯＯＮ.........🦴
 
 `}) 
 
