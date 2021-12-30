@@ -36,8 +36,6 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
 }));
 
-if(!Asena)
-
 case 'joi':
 reply('IMASJ TRSHDJSK')
 break
