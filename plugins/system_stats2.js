@@ -19,13 +19,13 @@ var plk_here = new Date().toLocaleDateString(get_localized_date)
 var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
 	const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: '' + Config.ALIVEBTN + '\n '}, type: 1},
+        {buttonId: 'menu', buttonText: {displayText: '' + Config.ALIVEBTN + '\n '}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: '' + Config.ALIVEBTN2 + '\n '}, type: 1},
       ]
       
       const buttonMessage = {
           contentText: '      \n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗        \n║╔╗║║║─╚║║╝║╚╦╝║║╦╝        \n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗        \n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝ \n\n *╔✘ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*»\n*║✘Bᴏᴛ ɴᴀᴍᴇ :* ' + Config.BOT + '\n*║✘ Oᴡɴᴇʀ : ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ*\n*║✘ᴛɪᴍᴇ   :* ```' + plk_say + '```\n*║✘Wᴏʀᴋ ᴛʏᴘᴇ : ' + Config.WORKTYPE + '*\n*║✘ Pʀᴇғɪx : ' + Config.HANDLERS + '*    \n *╚✘*\n           *ꪶ͢💝𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔_𝙑3💝ꫂ⁩*         \n\n*╭◪ ᴄᴏᴅᴅᴇᴅ ʙʏ ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ*\n*╰─────────────────❋ཻུ۪۪⸙*\n',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ɴɪᴊɪɴꫂ',
+          footerText: '©ꪶꫂ',
           buttons: buttons,
           headerType: 1
       }
