@@ -5,6 +5,6 @@ WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
-RUN git clone https://github.com/Imash-BoT/media7
+RUN git clone https://github.com/Imash-BoT/media
 
 CMD ["node", "bot.js"]
