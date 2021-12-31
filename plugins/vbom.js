@@ -3,10 +3,10 @@ const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 const ytdl = require('ytdl-core');
 const YTV_DESC = "Youtube Video Downloader "
 const YT_NEED = "*need word!.*"
-const DWLOAD_VID = "*🎭Downloading Your Video...*"
-const YTV_UP = "*🚀Uploading Your short Video...*"
-const DSWLOAD_VID = "*🎭Downloading Your short Video...*"
-const YSTV_UP = "*🚀Uploading Your Video...*"
+const DWLOAD_VID = "*⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩Downloading Your Video...*"
+const YTV_UP = "*⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩Uploading Your short Video...*"
+const DSWLOAD_VID = "*Downloading Your short Video...*"
+const YSTV_UP = "*⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩Uploading Your Video...*"
 const NO_RESULT = "*🌀can't Find Anything...*"
 const fs = require('fs');
 const axios = require('axios');
@@ -49,7 +49,7 @@ if (match[1].includes( 'shorts' )) {
 
         yt.on('end', async () => {
             reply = await message.client.sendMessage(message.jid,YTV_UP,MessageType.text , {quoted: message.data});
-            await message.client.sendMessage(message.jid,fs.readFileSync('./' + VID + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4 , quoted: message.data});
+            await message.client.sendMessage(message.jid,fs.readFileSync('./' + VID + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4 , quoted: message.data, caption: "⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁩"});
         });
     } else {
 
