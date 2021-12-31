@@ -11,7 +11,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Maalutty.addCommand({pattern: 'maalutty', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'owner2', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -19,15 +19,15 @@ var plk_here = new Date().toLocaleDateString(get_localized_date)
 var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
 	const buttons = [
 
-        {buttonId: 'id1', buttonText: {displayText: 'PODA😏'}, type: 1},
-        {buttonId: 'id2', buttonText: {displayText: 'NJAN MANDAN ONNUMALLA😝'}, type: 1},
-        {buttonId: 'id3', buttonText: {displayText: '💝OWNER💝 \n\n```creater Husni and nijin```\n\n```owner number wa.me/917025868709```\n\n```owner number wa.me/919446672120```\n\n```whatsapp group : https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp```\n\n\n'  }, type: 1},
+        {buttonId: 'id1', buttonText: {displayText: 'NICE'}, type: 1},
+        {buttonId: 'id2', buttonText: {displayText: '😂'}, type: 1},
+        {buttonId: 'id3', buttonText: {displayText: '💝OWNER💝 \n\n```creater is ⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩```\n\n```owner number wa.me/94771323434```\n\n\n'  }, type: 1},
 
       ]
       
       const buttonMessage = {
-          contentText: 'Eda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda😂 ',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ÂÑD ɴɪᴊɪɴꫂ™',
+          contentText: 'ZED IS MY OWNER ',
+          footerText: '⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩',
           buttons: buttons,
           headerType: 1
       }
