@@ -49,7 +49,7 @@ if (match[1].includes( 'shorts' )) {
 
         yt.on('end', async () => {
             reply = await message.client.sendMessage(message.jid,YTV_UP,MessageType.text , {quoted: message.data});
-            await message.client.sendMessage(message.jid,fs.readFileSync('./' + VID + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4 , quoted: message.data, caption: "⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁩"});
+            await message.client.sendMessage(message.jid,fs.readFileSync('./' + VID + '.mp4'), MessageType.video, {mimetype: Mimetype.mp4 , quoted: message.data});
         });
     } else {
 
