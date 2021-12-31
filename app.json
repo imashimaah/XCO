@@ -20,7 +20,7 @@
         "ALL_IMG": {
             "description": "Change This Image Link If You Want To Change Audio Bc Thumbnail",
             "required": true,
-            "value": "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg"
+            "value": "https://www.linkpicture.com/q/20211229_144640.jpg"
         },
         "V_HEADER": {
             "description": "Set the Header name logo",
@@ -74,7 +74,7 @@
         "LG_LOGO": {
             "description": "LOGO list message image link(https://telegra.ph/)link.",
             "required": true,
-            "value": "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg"
+            "value": "https://www.linkpicture.com/q/20211229_144640.jpg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
@@ -104,7 +104,7 @@
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
             "required": false,
-            "value": "39999600"
+            "value": "999999999"
         },
         "AUTO_BİO": {
             "description": " Set true for auto date, time in biography.",
@@ -158,7 +158,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "Onn Nookeett Podey"
+            "value": "🙊🍃"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -183,7 +183,7 @@
         "NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "917025868709"
+            "value": "94771323434"
         },
         "DEPLOYER": {
             "description": "enter your name here",
@@ -230,12 +230,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song*"
+            "value": "*⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩DOWNLOADING.....*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "*Feel the song*"
+            "value": "*⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩uploading........*"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
