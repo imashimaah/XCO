@@ -79,9 +79,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Maalutty",
+            "RESTART_DESC": "Restarting",
             "RESTART_MSG": "*Helo Master* 🥰\n\n*I Am Restarting Please Wait It Will Take 5 Minuit*",
-            "SHUTDOWN_DESC": "Shutdown Maalutty",
+            "SHUTDOWN_DESC": "Shutdown",
             "SHUTDOWN_MSG": "*Ok Bye I Am Sleeping Now* 💤\n\n*Shuting Down* ⚠️",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -239,14 +239,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*ᴍᴀᴀʟᴜᴛᴛʏ ɪs ᴀʟʀᴇᴀᴅʏ ᴜᴘᴅᴀᴛᴇᴅ ʙʀᴏ💝*",
-            "NEW_UPDATE": "*New update available for Maalutty!*\n\n*To update Bot give this command: .update now*\n\n*Ask support group and update*\n*https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp*\n\nChanges:\n```",
+            "UPDATE": "*updating💝*",
+            "NEW_UPDATE": "*New update available!*\n\n*To update Bot give this command: .update now*\n\n*Ask support group and update*\n*https://chat.whatsapp.com/HEP90W2NX9Y4YISOzCu7AQ*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "ᴍᴀᴀʟᴜᴛᴛʏ ᴜᴘᴅᴀᴛɪɴɢ...ᴘʟs ᴡ8 ʙʀᴏ💞",
+            "UPDATING": "uodating💞",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*successful Update maalutty😍*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "ᴍᴀᴀʟᴜᴛᴛʏ ʀᴇsᴛᴀʀᴛɪɴɢ... ᴘʟs ᴡ8 ʙʀᴏ💞",
+            "AFTER_UPDATE": "congratulations 💞",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
