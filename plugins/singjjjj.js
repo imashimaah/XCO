@@ -3,8 +3,8 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const { errorMessage, infoMessage } = require('../helpers');
 const YTV_DESC = "Youtube song Downloader "
-const YT_NEED = "*need word!.*"
-const NO_RESULT = "*🌀can't Find Anything...*"
+const YT_NEED = "*TYPE ANY WORD!.*"
+const NO_RESULT = "*can't Find Anything...*"
 const config = require('../config');
 let KSK = config.WORKTYPE == 'public' ? false : true
 //උස්සන්නද ආවෙ බේසිකයෝ.බොහොම අමාරුවෙන් හැදුවෙ.උස්සන එකා අවජාතකයෙක් කියල හිතාගන්න පුලුවන් පොන්න හැත්ත.හුකන පොන්නයෝ
