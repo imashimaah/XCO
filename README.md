@@ -1,5 +1,9 @@
- <img src="https://i.ibb.co/MPJ93X9/20211209-205206.png" alt="google-font" border="0"></a>
-<div align="center">
+
+
+
+
+ 
+ <div align="center">
         <img src="https://i.ibb.co/YZ4D3GC/ezgif-2-67a710e8c501.gif" alt="GIF" width="250" height="250"/>
 </p>
 
@@ -10,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public<div align="center">
     <br>
        | © |
         Reserved |
@@ -20,6 +24,10 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
 
 ## Setup
+
+
+
+<a href="https://ibb.co/BVzcRd2"><img src="https://i.ibb.co/27nWBm3/lv-0-20211221021240.gif" alt="lv-0-20211221021240" border="0"></a>
 <div align="center">
 
   ### Simple Method
