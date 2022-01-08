@@ -1,27 +1,13 @@
 
-
-
-
- 
- <div align="center">
-        <img src="https://i.ibb.co/YZ4D3GC/ezgif-2-67a710e8c501.gif" alt="GIF" width="250" height="250"/>
-</p>
-
-<a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public<div align="center">
+Project created by <a href="ZED">ZED</a> to make it public<div align="center">
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
 
 ## Setup
 
