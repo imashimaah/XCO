@@ -15,7 +15,7 @@ let KSK = config.WORKTYPE == 'public' ? false : true
         if (!linkk) return await message.client.sendMessage(message.jid,YT_NEED,MessageType.text)
         await message.client.sendMessage(message.jid,config.SONGD,MessageType.text, {quoted: message.data});
         await axios
-          .get(`https://api-alphabot.herokuapp.com/api/downloader/youtube/playmp3?query=${linkk}&apikey=Alphabot`)
+          .get(`https://tinyurl.com/api-create.php?url=${linkk}`)
           .then(async (response) => {
             const {
               mp3,title,
