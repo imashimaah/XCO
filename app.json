@@ -1,11 +1,11 @@
 {
-    "name": "MAALUTTY_V3",
+    "name": "⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩",
     "description": "Maalutty is the Modified Version of WhatsAsena, Made By niin and husni with Baileys.",
-    "logo": "https://i.ibb.co/3ypJ8QW/20211209-194953.jpg",
+    "logo": "https://www.linkpicture.com/q/20211229_144640.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/nijin-husni/MAALUTTY_V3",
-    "website":   "https://github.com/nijin-husni/MAALUTTY_V3",
-    "success_url": "https://github.com/nijin-husni/MAALUTTY_V3",
+    "repository": "https://github.com/Imash-BoT/XCO/",
+    "website":   "https://github.com/Imash-BoT/XCO/",
+    "success_url": "https://github.com/Imash-BoT/XCO/",
     "stack": "container",
     "env": {
         "MAALUTTY_CODE": {
