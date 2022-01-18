@@ -19,9 +19,9 @@ var plk_here = new Date().toLocaleDateString(get_localized_date)
 var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '```'
 	const buttons = [
 
-        {buttonId: '.alive', buttonText: {displayText: '  \n ZED♥ '}, type: 1},
-        {buttonId: '.menu', buttonText: {displayText: '★OWNERS★ \n \n ```owner zed number wa.me/94771323434```\n\n```owner k2 number wa.me/94711117547```\n\n```whatsapp group : https://chat.whatsapp.com/HEP90W2NX9Y4YISOzCu7AQ```\n '}, type: 1},
-        {buttonId: '.help', buttonText: {displayText: '★INFO★\n\n         ☆ *𝙱𝙾𝚃 𝙸𝙽𝙵𝙾* ☆\n\n★┃ *ɴᴀᴍᴇ*  : ```' + Config.BOT + '``` \n★┃ *ᴍᴏᴅᴇ* : ```' + Config.WORKTYPE + '``` \n★┃ *ᴛɪᴍᴇ*   : ```' + plk_say + '```\n★┃ *ᴅᴀᴛᴇ* : ```' + plk_here + '```\n★┃ *ᴘᴇʀғɪx* : ```' + Config.HANDLERS + '``` \n*ᴅᴇᴠᴇʟᴏʟᴇʀ* : ⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩  \n\n☆ *𝚃𝙷𝙰𝙽𝙺𝚂* ☆\n\n★┃ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n '}, type: 1}
+        {buttonId: `.alive`, buttonText: {displayText: '  \n ZED♥ '}, type: 1},
+        {buttonId: `.menu`, buttonText: {displayText: '★OWNERS★ \n \n ```owner zed number wa.me/94771323434```\n\n```owner k2 number wa.me/94711117547```\n\n```whatsapp group : https://chat.whatsapp.com/HEP90W2NX9Y4YISOzCu7AQ```\n '}, type: 1},
+        {buttonId: `.help`, buttonText: {displayText: '★INFO★\n\n         ☆ *𝙱𝙾𝚃 𝙸𝙽𝙵𝙾* ☆\n\n★┃ *ɴᴀᴍᴇ*  : ```' + Config.BOT + '``` \n★┃ *ᴍᴏᴅᴇ* : ```' + Config.WORKTYPE + '``` \n★┃ *ᴛɪᴍᴇ*   : ```' + plk_say + '```\n★┃ *ᴅᴀᴛᴇ* : ```' + plk_here + '```\n★┃ *ᴘᴇʀғɪx* : ```' + Config.HANDLERS + '``` \n*ᴅᴇᴠᴇʟᴏʟᴇʀ* : ⁨ɪͥᴛͭsᷤ ᴍᷟᴇͤ ī.am 𝜡𝛯ᗪ⁴⁰⁴⁩  \n\n☆ *𝚃𝙷𝙰𝙽𝙺𝚂* ☆\n\n★┃ ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴏᴛ\n '}, type: 1}
 
       ]
       
